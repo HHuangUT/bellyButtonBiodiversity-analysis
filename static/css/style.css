@@ -10,6 +10,10 @@
     margin-bottom: 0px;
 }
 .title-text {
-    font: 50px Monaco, monospace;
+    font: 80px Verdanda, sans-serif;
     color: rgb(255, 255, 255);
+}
+.title-subtext {
+    font: 50 Verdanda, sans-serif;
+    color: rgb(219, 219, 219);
 }
