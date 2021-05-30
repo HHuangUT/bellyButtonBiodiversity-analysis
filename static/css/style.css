@@ -1,0 +1,15 @@
+.jumbotron-image {
+    /* background-image: url('../../images/patrick.png') no-repeat center center; */
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 574px;
+
+  }
+.navbar {
+    margin-bottom: 0px;
+}
+.title-text {
+    font: 50px Monaco, monospace;
+    color: rgb(255, 255, 255);
+}
